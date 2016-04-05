@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgress">
+        <attr name="numOfCircles" format="integer"/>
+        <attr name="maxRadius" format="dimension"/>
+        <attr name="minRadius" format="dimension"/>
+        <attr name="rotateSpeedInMillis" format="integer"/>
+        <attr name="isClockwise" format="boolean"/>
+        <attr name="circleColor" format="color"/>
+    </declare-styleable>    
+    
+</resources>
